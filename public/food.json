@@ -1,0 +1,85 @@
+{
+    "foods": [
+      {
+        "id": 51,
+        "name": "Premium Dog Food",
+        "type": "dog",
+        "brand": "Royal Canin",
+        "price": 29.99,
+        "weight": "3 kg",
+        "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "description": "Premium quality dog food suitable for all breeds. Rich in proteins and essential nutrients.",
+        "features": [
+          "High protein content",
+          "Balanced nutrition",
+          "No artificial preservatives",
+          "Suitable for all life stages"
+        ]
+      },
+      {
+        "id": 52,
+        "name": "Gourmet Cat Food",
+        "type": "cat",
+        "brand": "Whiskas",
+        "price": 24.99,
+        "weight": "2 kg",
+        "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "description": "Delicious cat food made with real fish and chicken. Perfect for adult cats.",
+        "features": [
+          "Real meat ingredients",
+          "Added taurine",
+          "Promotes healthy coat",
+          "Complete nutrition"
+        ]
+      },
+      {
+        "id": 53,
+        "name": "Grain-Free Dog Kibble",
+        "type": "dog",
+        "brand": "Blue Buffalo",
+        "price": 35.50,
+        "weight": "5 kg",
+        "image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "description": "Grain-free formula designed for dogs with food sensitivities.",
+        "features": [
+          "No grains",
+          "Rich in Omega-3 and Omega-6",
+          "Supports joint health",
+          "Delicious chicken flavor"
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Tuna Delight Cat Food",
+        "type": "cat",
+        "brand": "Purina",
+        "price": 19.99,
+        "weight": "1.5 kg",
+        "image": "https://images.unsplash.com/photo-1615791287380-875e4d002a08?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "description": "Tuna-flavored kibble to satisfy your cat’s cravings.",
+        "features": [
+          "100% natural tuna",
+          "Enriched with vitamins and minerals",
+          "Supports immune health",
+          "Great taste cats love"
+        ]
+      },
+      {
+        "id": 55,
+        "name": "Salmon & Sweet Potato Dog Food",
+        "type": "dog",
+        "brand": "Hill’s Science Diet",
+        "price": 39.99,
+        "weight": "4 kg",
+        "image": "https://images.unsplash.com/photo-1612000577668-3f34b75b74c2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "description": "Delicious blend of salmon and sweet potato for dogs with sensitive stomachs.",
+        "features": [
+          "Easily digestible ingredients",
+          "Rich in Omega fatty acids",
+          "No artificial flavors",
+          "Supports healthy skin and coat"
+        ]
+      }
+    ]
+  }
+  
