@@ -21,7 +21,7 @@ const Banner = () => {
           </p>
           <Link
           className="flex justify-center"
-            to="/login"
+            to="/add-pets"
           >
             <Button name="Adopt Now"></Button>
           </Link>

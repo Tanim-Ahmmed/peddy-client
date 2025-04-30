@@ -11,8 +11,7 @@ const LatestPets = () => {
     fetch("/pets.json")
       .then((response) => response.json())
       .then((data) => {
-        // Assuming pets.json contains a flat array of pets
-        setLatestPets(data.pets?.slice(-8)); // Update if the data structure is different
+        setLatestPets(data.pets?.slice(-8)); 
         setLoading(false);
       })
       .catch((error) => {
